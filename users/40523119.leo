@@ -20,6 +20,7 @@
 </v>
 <v t="leo.20171122224218.1"><vh>目錄規劃</vh></v>
 <v t="leo.20171123133716.1" a="E"><vh>@path ./../</vh>
+<v t="leo.20171123141851.1"><vh>@edit README.md</vh></v>
 <v t="leo.20171123133524.1"><vh>@path report</vh>
 <v t="leo.20171123133535.1"><vh>@path latex</vh>
 <v t="leo.20171123133551.1"><vh>@edit readme.md</vh></v>
@@ -41,7 +42,7 @@
 <v t="leo.20171123134117.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
-<v t="leo.20171123134232.1" a="E"><vh>@path elec_design</vh>
+<v t="leo.20171123134232.1"><vh>@path elec_design</vh>
 <v t="leo.20171123134244.1"><vh>@edit readme.md</vh></v>
 </v>
 </v>
